@@ -63,10 +63,17 @@ My goal is to join a team as a:
 
 ## 📁 Repository Contents
 
-- **[Writeups](./writeups/)** — CTF solutions and lab walkthroughs
+### 🏠 **This Repository (Profile Overview)**
+- **[Quick Notes](./notes/)** — Essential study materials and quick references
 - **[Certificates](./certificates/)** — Learning achievements and course completions
-- **[Tools & Scripts](./tools/)** — Custom Python scripts and automation tools
-- **[Notes](./notes/)** — Study materials and cybersecurity concepts
+- **[Basic Tools](./tools/)** — Simple scripts and utilities
+- **[Sample Writeups](./writeups/)** — Selected CTF solutions and learning examples
+
+### 🚀 **Specialized Repositories**
+- **[ctf-writeups](https://github.com/kashan-miankhel14/ctf-writeups)** — Detailed TryHackMe, HTB, and CTF solutions
+- **[python-security-tools](https://github.com/kashan-miankhel14/python-security-tools)** — Custom Python scripts for security testing
+- **[red-team-automation](https://github.com/kashan-miankhel14/red-team-automation)** — Offensive security tools and automation
+- **[cybersec-study-notes](https://github.com/kashan-miankhel14/cybersec-study-notes)** — Comprehensive study materials and methodologies
 
 ---
 
