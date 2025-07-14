@@ -76,8 +76,8 @@ class SecurityEngineer:
 
 | Stat | Visualization |
 |------|--------------|
-| **Profile Stats** | ![Kashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashan-miankhel14&show_icons=true&theme=radical&include_all_commits=true) |
-| **Top Languages** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashan-miankhel14&layout=compact&theme=radical) |
+| **Profile Stats** | ![Kashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashan-miankhel14&show_icons=true&theme=radical&count_private=true&include_all_commits=true) |
+| **Top Languages** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashan-miankhel14&layout=compact&theme=radical&hide=html,css) |
 
 ---
 
@@ -117,11 +117,11 @@ class SecurityEngineer:
 
 ```diff
 + [X] Complete 5 CTF writeups
-! [ ] ISC2 CC Certification (50%)
-- [ ] First bug bounty report
-- [ ] Finish TryHackMe Jr Penetration Tester Path
-- [ ] Complete 10 HTB machines with detailed writeups
-- [ ] Build portfolio of 25+ CTF writeups
++ [X] Finish TryHackMe Jr Penetration Tester Path
++ [X] Complete 10 HTB machines with detailed writeups
++ [X] First bug bounty report
+! [ ] ISC2 CC Certification (In Progress)
+- [ ] Build portfolio of 25+ CTF writeups (Current: 15)
 ```
 
 ---
