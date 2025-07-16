@@ -6,7 +6,7 @@
 🚀 **Looking for:** Freelance, internships & junior roles in cybersecurity
 
 📫 **Connect with me:**  
-- [LinkedIn] *(https://www.linkedin.com/in/kashan-saeed-58568335b/)*
+- [LinkedIn](https://www.linkedin.com/in/kashan-saeed-942548375)
 - Email: *(kashan.miankhel@gmail.com)*
 
 **"Keep hacking, keep learning!"**

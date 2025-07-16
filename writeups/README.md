@@ -100,7 +100,7 @@ If you find any errors in my writeups or have suggestions for improvement, feel 
 ---
 
 **📧 Contact:** kashan.miankhel@gmail.com  
-**🔗 LinkedIn:** [Kashan Saeed](https://www.linkedin.com/in/kashan-saeed-58568335b/)  
+**🔗 LinkedIn:** [Kashan Saeed](https://www.linkedin.com/in/kashan-saeed-942548375)  
 **🎯 TryHackMe:** [kashanmiankhel922](https://tryhackme.com/p/kashanmiankhel922)
 
 ---
