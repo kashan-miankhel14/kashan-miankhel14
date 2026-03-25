@@ -100,7 +100,7 @@ Final-year Software Engineering student with a strong foundation in **cybersecur
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashan-miankhel14&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=html,css" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kashan-miankhel14&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashan-miankhel14&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" width="48%" />
 </p>
 
