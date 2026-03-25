@@ -1,56 +1,25 @@
-# 🛠️ DevSecOps & Cybersecurity Tools
+# Security Tool Notes
 
-This directory contains custom Python scripts, automation tools, and utilities I created for **DevOps, DevSecOps, and Cybersecurity** tasks.
-
-## 📂 Current Tools
-
-### 🔐 **Cybersecurity Tools**
-- **[scan-network.py](./scan-network.py)**
-  - Description: Scans the local network for active hosts using Nmap
-  - Language: Python
-  - Usage: `python scan-network.py -i eth0`
-
-- **[vuln-check.sh](./vuln-check.sh)**
-  - Description: A bash script to check for common vulnerabilities using automated scanners
-  - Language: Bash
-  - Usage: `./vuln-check.sh 192.168.0.1`
-
-### 🚀 **DevOps & DevSecOps Tools (Coming Soon)**
-- **[docker-security-scan.py](./docker-security-scan.py)**
-  - Planned: Automated Docker container security scanning
-  - Language: Python
-  - Features: CIS Docker Benchmark checks, vulnerability scanning
-
-- **[ci-cd-security-check.sh](./ci-cd-security-check.sh)**
-  - Planned: Security scanning integration for CI/CD pipelines
-  - Language: Bash
-  - Features: Snyk, Trivy, and custom security checks
-
-- **[iac-security-validator.py](./iac-security-validator.py)**
-  - Planned: Terraform/Ansible security validation
-  - Language: Python
-  - Features: Checkov integration, custom security rules
-
-## 🛠️ **Future Development**
-
-### 🔐 **Cybersecurity Tools**
-- **Web Scraper for OSINT**
-  - Planned: Develop a Python tool to gather public information from social media profiles
-
-- **Automated Report Generator**
-  - Planned: Create a LaTeX template and script to generate professional penetration testing reports
-
-### 🚀 **DevOps & DevSecOps Tools**
-- **Kubernetes Security Auditor**
-  - Planned: Automated Kubernetes cluster security assessment
-
-- **Cloud Security Monitor**
-  - Planned: AWS/Azure security monitoring and alerting tool
-
-- **MLOps Pipeline Scanner**
-  - Planned: Security scanning for ML pipelines and models
+Quick reference and study notes for tools I use in penetration testing and security assessments.
 
 ---
 
-*These tools are developed to improve efficiency and effectiveness in cybersecurity assessments, DevOps workflows, and building secure automated systems.*
+## Available Notes
 
+| Tool | File | Description |
+|------|------|-------------|
+| **Burp Suite** | [Burp_Suite_Notes.md](./Burp_Suite_Notes.md) | Complete guide — Proxy, Repeater, Intruder, Scanner, extensions, workflows |
+| **cURL** | [cURL_Notes.md](./cURL_Notes.md) | HTTP methods, headers, authentication, proxying, SSL/TLS, security testing |
+| **FFUF** | [FFUF_Notes.md](./FFUF_Notes.md) | Web fuzzing — directory discovery, parameter fuzzing, virtual host enumeration |
+| **Gobuster** | [Gobuster_Notes.md](./Gobuster_Notes.md) | Directory/dns/vhost brute-forcing modes and common options |
+| **OWASP ZAP** | [OWASP_ZAP_Notes.md](./OWASP_ZAP_Notes.md) | Core components, add-ons, automation API, real-world scenarios |
+
+---
+
+## How I Use These
+
+These notes serve as my personal reference during CTF challenges, HTB/THM machines, and practice assessments. Each document covers:
+- Installation & setup
+- Core functionality and flags
+- Real-world usage examples
+- Tips and best practices

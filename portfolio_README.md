@@ -1,37 +1,50 @@
-# DevOps & Cybersecurity Learning Portfolio
+# Kashan Saeed — Portfolio
 
-This repository contains my learning progress, write-ups, tools, and notes related to my journey in **DevOps, DevSecOps, MLOps, and Cybersecurity**.
+A collection of my technical work across **Cybersecurity**, **DevOps**, and **System Programming**.
 
-## 📁 Structure
+---
 
-### 🔐 Cybersecurity Learning
-- **writeups/** — CTF and lab walkthroughs (TryHackMe, Hack The Box)
-- **tools/** — Custom security scripts and automation tools
-- **notes/** — Study notes from cybersecurity courses and certs
+## 📂 Repository Structure
 
-### 🚀 DevOps & DevSecOps (Coming Soon)
-- **devops-pipelines/** — CI/CD pipeline examples with security integration
-- **iac-examples/** — Infrastructure as Code (Terraform, Ansible) with security best practices
-- **container-security/** — Docker and Kubernetes security configurations
+### 🔐 Cybersecurity
+- **`/writeups/`** — CTF and penetration testing walkthroughs (TryHackMe, Hack The Box)
+- **`/tools/`** — Quick reference notes for security tools (Burp Suite, FFUF, Gobuster, cURL, OWASP ZAP)
+- **`/notes/`** — Study materials covering pentesting methodology, reconnaissance, and post-exploitation
+- **`/certificates/`** — Official certifications and course completions
 
-### 🤖 MLOps (In Progress)
-- **ml-pipelines/** — ML model deployment and monitoring examples
-- **mlops-notes/** — Study materials for MLOps certifications and practices
+### 🚀 DevOps (In Progress)
+- **CI/CD pipelines** with GitHub Actions and Jenkins
+- **Containerization** with Docker & Kubernetes
+- **Infrastructure as Code** with Terraform and Ansible
+
+### 🔧 System Programming (Exploring)
+- **Rust** — Building CLI tools and understanding memory safety
+- **Linux internals** — Processes, threads, system calls
+- **Networking at the systems level**
+
+---
 
 ## 🎯 Current Focus
 
-### Cybersecurity
-- TryHackMe: Pentesting Junior Path
-- Hack The Box: Tier 0 Labs
-- ISC2 CC Certification
+| Area | Status |
+|------|--------|
+| Cybersecurity | ✅ ISC2 CC earned, THM/HTB completed |
+| Rust | 🔄 Learning ownership, borrowing, CLI tools |
+| DevOps | 🔄 CI/CD pipelines, Docker, Terraform |
+| System Programming | 🔄 Linux internals, low-level concepts |
 
-### DevOps & DevSecOps
-- Docker & Kubernetes fundamentals
-- CI/CD pipeline security
-- Infrastructure as Code with Terraform
-- AWS Cloud Practitioner
+---
 
-### MLOps
-- ML model deployment basics
-- AIOps concepts and tools
+## 📜 Certifications
 
+- **ISC2 Certified in Cybersecurity (CC)** — Earned
+- **Cisco Introduction to Cybersecurity** — Completed
+- **Cisco CC Domain 1-3** — Completed
+
+---
+
+## 🔗 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/kashan-saeed-942548375)
+- [GitHub](https://github.com/kashan-miankhel14)
+- [Email](mailto:kashan.miankhel@gmail.com)

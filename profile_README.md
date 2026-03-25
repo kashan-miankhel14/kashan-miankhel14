@@ -1,14 +1,16 @@
-# Hi there 👋 I'm Kashan Miankhel
+# Kashan Saeed
 
-🎓 **Software Engineering Student** (1 year remaining)  
-🔐 **Cybersecurity Student** — Learning Penetration Testing | TryHackMe, HTB enthusiast  
-🚀 **DevOps & DevSecOps Enthusiast** — CI/CD | Docker | Kubernetes | Terraform  
-🤖 **MLOps Learner** — ML Pipelines | Model Deployment (In Progress)  
-🛠️ **Currently Learning:** ISC2 CC, AWS Cloud Practitioner, DevSecOps best practices  
-🚀 **Looking for:** Entry-level DevSecOps roles, DevOps trainee positions, Cybersecurity internships
+🎓 **Final-year Software Engineering Student** | Pakistan
 
-📫 **Connect with me:**  
-- [LinkedIn](https://www.linkedin.com/in/kashan-saeed-942548375)
-- Email: *(kashan.miankhel@gmail.com)*
+🔧 **System Programming** — Rust, Linux internals, performance
+🚀 **DevOps** — CI/CD, Docker, Kubernetes, Terraform, AWS
+🛡️ **Cybersecurity** — ISC2 CC certified, CTF writeups, penetration testing
 
-**"Keep hacking, keep learning!"**
+📧 kashan.miankhel@gmail.com | [LinkedIn](https://www.linkedin.com/in/kashan-saeed-942548375) | [GitHub](https://github.com/kashan-miankhel14)
+
+---
+
+**Currently building:**
+- Rust CLI tools and systems utilities
+- Production CI/CD pipelines with security integration
+- Kubernetes and cloud infrastructure projects

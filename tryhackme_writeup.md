@@ -1,32 +1,40 @@
-# TryHackMe: Intro to Cyber Security - Learning Write-up
+# TryHackMe: Intro to Cyber Security
 
-**Status:** Completed  
-**Date:** *Add date*  
-**Category:** Foundational Security Learning
+**Status:** Completed
+**Category:** Foundational Security
 
-## 📝 Overview
-This room covered the fundamentals of cyber security that form the foundation for **DevSecOps practices**:
-- Networking fundamentals (essential for secure infrastructure)
-- Linux basics (critical for container and cloud security)
-- Using Nmap for scanning (network reconnaissance for security monitoring)
-- Simple enumeration techniques (asset discovery for DevSecOps)
+---
 
-## 🔍 Key Tools & DevOps Relevance
-- **nmap** - Network scanning for security monitoring in CI/CD pipelines
-- **netcat** - Network debugging and secure communication testing
-- **basic Linux commands** - Foundation for container and cloud security
+## What This Room Covers
 
-## 💡 What I Learned & DevSecOps Applications
-- How to scan networks and find open ports → **Infrastructure security monitoring**
-- Basic enumeration of services → **Service discovery for security audits**
-- Importance of keeping systems updated → **Patch management in DevOps**
+- Networking fundamentals (TCP/IP, ports, protocols)
+- Linux basics (command line, file system, permissions)
+- Basic Nmap scanning for network reconnaissance
+- Simple service enumeration
 
-## 🚀 DevSecOps Connection
-These foundational security skills are directly applicable to:
-- **Secure CI/CD pipelines** - Network scanning for security vulnerabilities
-- **Infrastructure monitoring** - Service enumeration and port management
-- **Container security** - Linux fundamentals for Docker/Kubernetes
-- **Cloud security** - Network security principles for AWS/Azure
+---
 
-## ⚠️ Note
-No flags or sensitive details are shared, only learning steps and security principles applicable to DevOps environments.
+## Key Takeaways
+
+- **Nmap** — Scanning for open ports and service versions
+- **Netcat** — Network debugging and connectivity testing
+- **Linux commands** — Essential for system administration and security testing
+
+---
+
+## Skills Applied
+
+| Skill | Real-World Use |
+|-------|---------------|
+| Network scanning | Infrastructure security monitoring |
+| Service enumeration | Asset discovery and vulnerability assessment |
+| Linux fundamentals | Container security, cloud environments |
+| Basic reconnaissance | Foundation for penetration testing |
+
+---
+
+## Tools Used
+
+- Nmap (port scanning, service detection)
+- Netcat (network communication)
+- Basic Linux command line

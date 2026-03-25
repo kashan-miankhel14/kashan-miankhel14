@@ -1,188 +1,135 @@
-# Hi, I'm Kashan 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Kashan+Saeed;Systems+Engineer+in+Training;Cybersecurity+%7C+DevOps+%7C+Rust" alt="Typing SVG" />
+</p>
 
-🎓 **Final-year Software Engineering student** based in Pakistan  
-🔐 **Cybersecurity Student** — Learning Ethical Hacking | Penetration Testing | Red Team Concepts  
-🚀 **DevOps & DevSecOps Enthusiast** — CI/CD | Infrastructure as Code | Cloud Security  
-🤖 **MLOps Learner** — ML Pipelines | Model Deployment | AIOps (In Progress)
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kashan-miankhel14&theme=radical)](https://git.io/streak-stats)
+**[🇵🇰 Pakistan] | [📧 kashan.miankhel@gmail.com] | [💼 LinkedIn](https://www.linkedin.com/in/kashan-saeed-942548375) | [🐙 GitHub](https://github.com/kashan-miankhel14)**
 
----
-
-## 🔐 Why Cybersecurity + DevOps?
-
-I've always been fascinated by how systems work — and how attackers find ways to break them. But I believe that security shouldn't be an afterthought. That's why I'm passionate about **DevSecOps** — building security into every stage of the development lifecycle. I want to help companies protect their digital assets not just by finding vulnerabilities, but by building secure, automated, and resilient systems from the ground up.
+</div>
 
 ---
 
-## 🚀 What I'm Doing Right Now
+## 🎯 About Me
 
-I'm actively building my skills and experience through:
+Final-year Software Engineering student with a strong foundation in **cybersecurity** and an active pursuit of **system programming** and **DevOps** engineering. Certified in Cybersecurity (ISC2 CC) with hands-on experience in penetration testing and a growing expertise in building secure, automated infrastructure.
 
-### 🎯 **Hands-On Learning Platforms**
-- **TryHackMe**: Yearly subscriber completing CTF challenges and learning paths (Jr Penetration Tester, Red Teaming)
-- **Hack The Box**: Practicing on real-world machines and HTB Academy modules for Advanced AD and exploit development
-
-### 📚 **Certifications & Courses**
-- **ISC2 Certified in Cybersecurity (CC)** — Currently studying for this globally recognized certification
-- **Python Scripting** for cybersecurity automation and DevOps pipelines
-- **Penetration Testing & Ethical Hacking** courses with documented certificates
-- **Docker & Kubernetes** for containerization and orchestration
-- **AWS Cloud Practitioner** — Learning cloud services and security
-- **Terraform** for Infrastructure as Code (IaC)
-- **Jenkins & GitHub Actions** for CI/CD pipelines
-- **Machine Learning Operations** — Learning ML model deployment and monitoring
-
-### 🐛 **Bug Bounty Practice**
-Learning web application testing techniques for platforms like:
-- HackerOne
-- Bugcrowd
+**Current Focus:**
+- 🔧 System Programming (Rust, Linux internals, networking)
+- 🚀 DevOps & Cloud Infrastructure (CI/CD, Docker/K8s, IaC)
+- 🛡️ Cybersecurity (Red teaming fundamentals, security automation)
 
 ---
 
-## 🛠️ How I Prove My Skills
+## 🛠️ Technical Skills
 
-I believe practical work speaks louder than theory:
+### **Languages & Systems**
+| | |
+|---|---|
+| **Rust** | Memory-safe systems programming, CLI tools |
+| **Python** | Security automation, scripting |
+| **Bash/Shell** | DevOps workflows, system administration |
+| **C/C++** | Understanding low-level concepts (in progress) |
+| **Linux** | System administration, internals, shell scripting |
 
-- ✅ **Write detailed writeups** of CTF rooms and machine walkthroughs on GitHub
-- ✅ **Document my learning journey** with step-by-step problem-solving approaches
-- ✅ **Share progress and certificates** on LinkedIn to connect with the community
-- ✅ **Build public labs** to test skills and create a portfolio of real-world security work
+### **DevOps & Cloud**
+| Category | Technologies |
+|----------|--------------|
+| **CI/CD** | GitHub Actions, Jenkins |
+| **Containers** | Docker, Kubernetes (basics) |
+| **Infrastructure as Code** | Terraform, Ansible |
+| **Cloud** | AWS (Cloud Practitioner knowledge) |
+| **Monitoring** | Prometheus, Grafana (learning) |
 
----
-
-## 🎯 What I'm Looking For
-
-My goal is to join a team as a:
-- **DevSecOps Engineer (Entry Level)**
-- **Junior Penetration Tester**
-- **DevOps Engineer Trainee (Security-focused)**
-- **SOC Analyst Trainee** 
-- **MLOps Engineer (Future Goal)**
-- **Red Team Trainee**
-
-**What I can offer:**
-- Apply practical knowledge gained from hands-on security testing
-- Build secure CI/CD pipelines with integrated security scanning
-- Implement Infrastructure as Code with security best practices
-- Continuous learning mindset with mentorship
-- Help organizations stay secure in real-world environments
-- Bridge the gap between development, operations, and security teams
-
-**I'm open to:**
-- Entry-level roles (remote or local)
-- Internships
-- Freelance opportunities
+### **Cybersecurity (Proven Experience)**
+| Category | Tools & Techniques |
+|----------|-------------------|
+| **OS** | Kali Linux |
+| **Reconnaissance** | Nmap, Wireshark, DNS enumeration |
+| **Web Testing** | Burp Suite (Proxy, Repeater, Intruder) |
+| **Exploitation** | Metasploit, searchsploit |
+| **Fuzzing** | FFUF, Gobuster |
+| **Automation** | Python security scripts |
+| **Certification** | **ISC2 Certified in Cybersecurity (CC)** |
 
 ---
 
-## 📊 GitHub Analytics
+## 📂 What's In This Repository
 
-```python
-class DevSecOpsEngineer:
-    def __init__(self):
-        self.name = "Kashan Saeed"
-        self.role = "Cybersecurity & DevOps Enthusiast"
-        self.skills = [
-            "Penetration Testing", 
-            "Red Teaming", 
-            "Python Automation",
-            "CI/CD Pipelines",
-            "Docker & Kubernetes",
-            "Infrastructure as Code",
-            "Cloud Security"
-        ]
-        self.current_goal = "ISC2 CC + AWS DevOps Engineer Certification"
-        self.future_goal = "MLOps Specialization"
-```
+### Main Profile Repo
+- **`/notes/`** — Technical study materials and methodologies
+- **`/tools/`** — Quick reference notes for security tools
+- **`/writeups/`** — CTF and penetration testing walkthroughs
+- **`/certificates/`** — Official certifications (ISC2 CC, Cisco, etc.)
 
-| Stat | Visualization |
-|------|--------------|
-| **Profile Stats** | ![Kashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=kashan-miankhel14&show_icons=true&theme=radical&count_private=true&include_all_commits=true) |
-| **Top Languages** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashan-miankhel14&layout=compact&theme=radical&hide=html,css) |
+### Specialized Repos (Separate)
+- **[ctf-writeups](https://github.com/kashan-miankhel14/ctf-writeups)** — Full CTF solutions
+- **[python-security-tools](https://github.com/kashan-miankhel14/python-security-tools)** — Custom Python security scripts
+- **[devops-pipeline-templates](https://github.com/kashan-miankhel14/devops-pipeline-templates)** — CI/CD pipeline templates (coming soon)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ✅ Proven Achievements
 
-### 🚀 **DevOps & Cloud Tools**
-| Category       | Tools                                                                 |
-|----------------|----------------------------------------------------------------------|
-| Containerization | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
-| CI/CD          | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
-| IaC            | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white) |
-| Cloud          | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) |
-| Monitoring     | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white) |
-
-### 🔐 Security Tools
-| Category       | Tools                                                                 |
-|----------------|----------------------------------------------------------------------|
-| OS             | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white) |
-| Testing        | ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burp-suite&logoColor=white) |
-| Networking     | ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) |
-| DevSecOps      | ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat&logo=snyk&logoColor=white) ![Trivy](https://img.shields.io/badge/Trivy-41A95F?style=flat&logo=trivy&logoColor=white) |
-
-### 🤖 **MLOps Tools (Learning)**
-| Category       | Tools                                                                 |
-|----------------|----------------------------------------------------------------------|
-| ML Platforms   | ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![Kubeflow](https://img.shields.io/badge/Kubeflow-FF6B00?style=flat&logo=kubeflow&logoColor=white) |
-| Data Science   | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Cybersecurity Expertise
+- Completed TryHackMe **Jr. Penetration Tester** learning path
+- Solved **10+ Hack The Box machines** with full documentation
+- Earned **ISC2 Certified in Cybersecurity (CC)** — industry recognized credential
+- Authored **detailed CTF writeups** documenting methodology and solutions
+- Hands-on with **Burp Suite, Metasploit, Nmap, Wireshark** in practical scenarios
+- Developed **custom Python scripts** for security automation tasks
+- Practiced **bug bounty techniques** on HackerOne/Bugcrowd platforms
 
 ---
 
-## 📁 Repository Contents
-
-### 🏠 **This Repository (Profile Overview)**
-- **[Quick Notes](./notes/)** — Essential study materials and quick references
-- **[Certificates](./certificates/)** — Learning achievements and course completions
-- **[Basic Tools](./tools/)** — Simple scripts and utilities
-- **[Sample Writeups](./writeups/)** — Selected CTF solutions and learning examples
-
-### 🚀 **Specialized Repositories**
-- **[ctf-writeups](https://github.com/kashan-miankhel14/ctf-writeups)** — Detailed TryHackMe, HTB, and CTF solutions
-- **[python-security-tools](https://github.com/kashan-miankhel14/python-security-tools)** — Custom Python scripts for security testing
-- **[red-team-automation](https://github.com/kashan-miankhel14/red-team-automation)** — Offensive security tools and automation
-- **[cybersec-study-notes](https://github.com/kashan-miankhel14/cybersec-study-notes)** — Comprehensive study materials and methodologies
-- **[devops-pipeline-templates](https://github.com/kashan-miankhel14/devops-pipeline-templates)** — CI/CD pipeline templates with security integration (Coming Soon)
-- **[iac-security-examples](https://github.com/kashan-miankhel14/iac-security-examples)** — Terraform/Ansible examples with security best practices (Coming Soon)
-- **[mlops-projects](https://github.com/kashan-miankhel14/mlops-projects)** — ML model deployment and monitoring projects (In Progress)
-
----
-
-## 🎯 Current Learning Goals
+## 🎯 Learning Roadmap
 
 ```diff
-+ [X] Complete 5 CTF writeups
-+ [X] Finish TryHackMe Jr Penetration Tester Path
-+ [X] Complete 10 HTB machines with detailed writeups
-+ [X] First bug bounty report
-+ [X] Learn Docker basics and container security
-+ [X] Build first CI/CD pipeline with GitHub Actions
-! [ ] ISC2 CC Certification (In Progress)
-! [ ] AWS Cloud Practitioner Certification (In Progress)
-! [ ] Terraform Associate Certification (Planned)
-- [ ] Build portfolio of 25+ CTF writeups (Current: 15)
-- [ ] Deploy secure web application with full CI/CD pipeline
-- [ ] Learn Kubernetes security best practices
-- [ ] Complete first MLOps project (ML model deployment)
++ [X] ISC2 CC Certification (Earned - June 2025)
++ [X] TryHackMe Jr Penetration Tester Path (Completed)
++ [X] 10+ HTB machines with writeups (Completed)
+! [ ] Rust systems programming projects (In Progress)
+! [ ] Production-ready CI/CD pipelines with security gates (In Progress)
+! [ ] Kubernetes cluster deployment & management (Planned)
+! [ ] Terraform & AWS hands-on infrastructure projects (Planned)
+- [ ] Contribute to open-source security tools (Next)
 ```
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kashan-miankhel14&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide=html,css" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashan-miankhel14&layout=compact&theme=tokyonight&hide=html,css&langs_count=6" width="48%" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashan-saeed-942548375)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashan.miankhel@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kashanmiankhel922)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/kashansaeed14)
+<p align="center">
+  <a href="https://www.linkedin.com/in/kashan-saeed-942548375">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kashan.miankhel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/kashan-miankhel14">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://tryhackme.com/p/kashanmiankhel922">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+  </a>
+  <a href="https://app.hackthebox.com/profile/kashansaeed14">
+    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HackTheBox" />
+  </a>
+</p>
 
 ---
 
-💬 *"I love meeting other ethical hackers, students, and security professionals. If you'd like to share knowledge, collaborate on projects, or chat about hacking and cyber defense, feel free to connect with me!"*
+<div align="center">
 
-**Tags:** `#DevOps` `#DevSecOps` `#MLOps` `#Cybersecurity` `#PenetrationTesting` `#EthicalHacking` `#RedTeam` `#CI/CD` `#Docker` `#Kubernetes` `#Terraform` `#AWS` `#Python` `#InfoSec` `#CloudSecurity`
+**🛠️ Always building | 🧠 Always learning | 🔒 Security first**
+
+</div>
