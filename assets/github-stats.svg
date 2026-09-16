@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="176" viewBox="0 0 495 176" role="img" aria-labelledby="title">
+  <title id="title">Kashan Saeed GitHub stats</title>
+  <rect width="495" height="176" rx="8" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="494" height="175" rx="7.5" fill="none" stroke="#30363d"/>
+  <text x="20" y="28" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" fill="#58a6ff">Kashan Saeed's GitHub Stats</text>
+  <line x1="20" y1="99" x2="475" y2="99" stroke="#30363d" stroke-opacity="0.5"/>
+  <line x1="171" y1="45" x2="171" y2="154" stroke="#30363d" stroke-opacity="0.5"/>
+  <line x1="322" y1="45" x2="322" y2="154" stroke="#30363d" stroke-opacity="0.5"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="95" y="75" font-size="20" font-weight="700" fill="#c9d1d9">0</text><text x="95" y="94" font-size="11" fill="#8b949e">Stars</text>
+    <text x="246" y="75" font-size="20" font-weight="700" fill="#c9d1d9">74</text><text x="246" y="94" font-size="11" fill="#8b949e">Commits</text>
+    <text x="397" y="75" font-size="20" font-weight="700" fill="#c9d1d9">4</text><text x="397" y="94" font-size="11" fill="#8b949e">Pull Requests</text>
+    <text x="95" y="138" font-size="20" font-weight="700" fill="#c9d1d9">0</text><text x="95" y="157" font-size="11" fill="#8b949e">Issues</text>
+    <text x="246" y="138" font-size="20" font-weight="700" fill="#c9d1d9">43h</text><text x="246" y="157" font-size="11" fill="#8b949e">Coding Hours</text>
+    <text x="397" y="138" font-size="20" font-weight="700" fill="#c9d1d9">1 day</text><text x="397" y="157" font-size="11" fill="#8b949e">Current Streak</text>
+  </g>
+</svg>

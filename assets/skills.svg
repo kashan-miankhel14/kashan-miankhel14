@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="title">
+  <title id="title">Primary technology stack</title>
+  <rect width="1000" height="220" rx="12" fill="#0f172a"/>
+  <rect x="1" y="1" width="998" height="218" rx="11" fill="none" stroke="#334155"/>
+  <text x="32" y="34" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#e2e8f0">Engineering Stack</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600">
+    <g transform="translate(32 55)"><rect width="150" height="38" rx="8" fill="#1e3a8a"/><text x="75" y="25" text-anchor="middle" fill="#ffffff">C# / .NET</text></g>
+    <g transform="translate(198 55)"><rect width="150" height="38" rx="8" fill="#374151"/><text x="75" y="25" text-anchor="middle" fill="#ffffff">Python</text></g>
+    <g transform="translate(364 55)"><rect width="150" height="38" rx="8" fill="#b91c1c"/><text x="75" y="25" text-anchor="middle" fill="#ffffff">Rust</text></g>
+    <g transform="translate(530 55)"><rect width="150" height="38" rx="8" fill="#1d4ed8"/><text x="75" y="25" text-anchor="middle" fill="#ffffff">TypeScript</text></g>
+    <g transform="translate(696 55)"><rect width="150" height="38" rx="8" fill="#f7df1e"/><text x="75" y="25" text-anchor="middle" fill="#111827">JavaScript</text></g>
+    <g transform="translate(862 55)"><rect width="106" height="38" rx="8" fill="#0ea5e9"/><text x="53" y="25" text-anchor="middle" fill="#ffffff">Next.js</text></g>
+    <g transform="translate(32 108)"><rect width="150" height="38" rx="8" fill="#61dafb"/><text x="75" y="25" text-anchor="middle" fill="#111827">React</text></g>
+    <g transform="translate(198 108)"><rect width="150" height="38" rx="8" fill="#3c873a"/><text x="75" y="25" text-anchor="middle" fill="#ffffff">Node.js</text></g>
+    <g transform="translate(364 108)"><rect width="150" height="38" rx="8" fill="#009688"/><text x="75" y="25" text-anchor="middle" fill="#ffffff">FastAPI</text></g>
+    <g transform="translate(530 108)"><rect width="150" height="38" rx="8" fill="#2496ed"/><text x="75" y="25" text-anchor="middle" fill="#ffffff">Docker</text></g>
+    <g transform="translate(696 108)"><rect width="150" height="38" rx="8" fill="#326ce5"/><text x="75" y="25" text-anchor="middle" fill="#ffffff">Kubernetes</text></g>
+    <g transform="translate(862 108)"><rect width="106" height="38" rx="8" fill="#ff9900"/><text x="53" y="25" text-anchor="middle" fill="#111827">AWS</text></g>
+    <g transform="translate(32 161)"><rect width="150" height="38" rx="8" fill="#7b42bc"/><text x="75" y="25" text-anchor="middle" fill="#ffffff">Terraform</text></g>
+    <g transform="translate(198 161)"><rect width="150" height="38" rx="8" fill="#2088ff"/><text x="75" y="25" text-anchor="middle" fill="#ffffff">GitHub Actions</text></g>
+    <g transform="translate(364 161)"><rect width="150" height="38" rx="8" fill="#f0c674"/><text x="75" y="25" text-anchor="middle" fill="#111827">Linux</text></g>
+    <g transform="translate(530 161)"><rect width="150" height="38" rx="8" fill="#336791"/><text x="75" y="25" text-anchor="middle" fill="#ffffff">PostgreSQL</text></g>
+    <g transform="translate(696 161)"><rect width="150" height="38" rx="8" fill="#4db33d"/><text x="75" y="25" text-anchor="middle" fill="#111827">MongoDB</text></g>
+    <g transform="translate(862 161)"><rect width="106" height="38" rx="8" fill="#f05033"/><text x="53" y="25" text-anchor="middle" fill="#ffffff">Git</text></g>
+  </g>
+</svg>

@@ -1,15 +1,16 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:1d4ed8,100:06b6d4&height=220&section=header&text=Kashan%20Saeed&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Software%20Engineer%20%E2%80%A2%20Enterprise%20Systems%20%E2%80%A2%20Cloud%20%26%20Platform%20%E2%80%A2%20Applied%20AI&descAlignY=55&descSize=18" alt="Kashan Saeed banner" />
+<img width="100%" src="assets/banner.svg" alt="Kashan Saeed banner" />
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kashan%20Saeed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashan-saeed-942548375)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashan.miankhel@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-kashan--miankhel14-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashan-miankhel14)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-kashanmiankhel922-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kashanmiankhel922)
+[![LinkedIn](assets/social-linkedin.svg)](https://www.linkedin.com/in/kashan-saeed-942548375)
+[![Email](assets/social-email.svg)](mailto:kashan.miankhel@gmail.com)
+[![GitHub](assets/social-github.svg)](https://github.com/kashan-miankhel14)
+[![TryHackMe](assets/social-tryhackme.svg)](https://tryhackme.com/p/kashanmiankhel922)
+[![Hack The Box](assets/social-hackthebox.svg)](https://app.hackthebox.com/profile/kashansaeed14)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+software+from+business+workflow+to+production+infrastructure.;Backend+%E2%86%92+Databases+%E2%86%92+Cloud+%E2%86%92+DevOps+%E2%86%92+AI+%E2%86%92+Systems.;I+care+about+architecture%2C+reliability%2C+security%2C+and+shipping+real+things." alt="Engineering focus" />
+<img src="assets/typing.svg" alt="Engineering focus" />
 
 </div>
 
@@ -56,20 +57,20 @@ AI where it genuinely adds value
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,rust,ts,js,nextjs,react,nodejs,fastapi,docker,kubernetes,aws,terraform,ansible,githubactions,linux,postgres,mongodb,git&perline=10" alt="Primary technology stack" />
+<img src="assets/skills.svg" alt="Primary technology stack" />
 
 <br/><br/>
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST-APIs-0ea5e9?style=flat-square)
-![SignalR](https://img.shields.io/badge/SignalR-Realtime-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-111111?style=flat-square)
-![LightGBM](https://img.shields.io/badge/LightGBM-Forecasting-2E8B57?style=flat-square)
-![WebSockets](https://img.shields.io/badge/WebSockets-Live%20Systems-7C3AED?style=flat-square)
+![SQL Server](assets/badge-sql-server.svg)
+![Dapper](assets/badge-dapper.svg)
+![REST APIs](assets/badge-rest-apis.svg)
+![SignalR](assets/badge-signalr.svg)
+![Helm](assets/badge-helm.svg)
+![Prometheus](assets/badge-prometheus.svg)
+![Grafana](assets/badge-grafana.svg)
+![Ollama](assets/badge-ollama.svg)
+![LightGBM](assets/badge-lightgbm.svg)
+![WebSockets](assets/badge-websockets.svg)
 
 </div>
 
@@ -237,12 +238,12 @@ Software engineering, architecture, distributed systems, databases, software re-
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kashan-miankhel14&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Kashan's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashan-miankhel14&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top languages" />
+<img height="170" src="assets/github-stats.svg" alt="Kashan's GitHub stats" />
+<img height="170" src="assets/top-languages.svg" alt="Top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kashan-miankhel14&theme=transparent&hide_border=true" alt="GitHub streak" />
+<img src="assets/github-streak.svg" alt="GitHub streak" />
 
 </div>
 
@@ -252,12 +253,12 @@ Software engineering, architecture, distributed systems, databases, software re-
 
 <div align="center">
 
-![Software Engineer](https://img.shields.io/badge/Software%20Engineer-0f172a?style=for-the-badge)
-![Backend .NET](https://img.shields.io/badge/Backend%20%2F%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Enterprise Systems](https://img.shields.io/badge/Enterprise%20Systems-1D4ED8?style=for-the-badge)
-![DevOps Cloud](https://img.shields.io/badge/DevOps%20%2F%20Cloud-0EA5E9?style=for-the-badge&logo=docker&logoColor=white)
-![Platform Engineering](https://img.shields.io/badge/Platform%20Engineering-0891B2?style=for-the-badge)
-![Applied AI](https://img.shields.io/badge/Applied%20AI-7C3AED?style=for-the-badge)
+![Software Engineer](assets/role-software-engineer.svg)
+![Backend .NET](assets/role-backend-dotnet.svg)
+![Enterprise Systems](assets/role-enterprise-systems.svg)
+![DevOps Cloud](assets/role-devops-cloud.svg)
+![Platform Engineering](assets/role-platform-engineering.svg)
+![Applied AI](assets/role-applied-ai.svg)
 
 </div>
 
@@ -273,9 +274,9 @@ I am especially interested in teams where I can grow across **enterprise/backend
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Let%27s%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashan-saeed-942548375)
-[![Email](https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kashan.miankhel@gmail.com)
+[![LinkedIn](assets/social-linkedin.svg)](https://www.linkedin.com/in/kashan-saeed-942548375)
+[![Email](assets/social-email.svg)](mailto:kashan.miankhel@gmail.com)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,55:1d4ed8,100:0f172a&height=120&section=footer" alt="Footer" />
+<img width="100%" src="assets/footer.svg" alt="Footer" />
